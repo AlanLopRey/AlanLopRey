@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alan+Lopez!;" />
 </h1>
 
-I'm Alan Lopez a self-taught frontend developer from Mexico (GMT-6) with more than a year of experience using HTML5, CSS3, SASS, Git and Now I'm get better at javascript
+I'm Alan Lopez a self-taught frontend developer from Mexico (UTC-6) with more than a year of experience using HTML5, CSS3, SASS, Git and Now I'm get better at javascript
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-lopez-frontend/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alan_lopezrey9822@outlook.com)
