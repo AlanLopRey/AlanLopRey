@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alan+Lopez!;" />
 </h1>
 
-I'm Alan Lopez a self-taught frontend developer from Mexico (GMT-6) with more than a year of experience using HTML5, CSS3, SASS, Git and Now I'm get better at javascript
+I'm Alan Lopez a self-taught frontend developer from Mexico (GMT-6) i know Javascript, HTML, CSS, Frontend tools like Vite, testing tools like Jest and Vitest.
+
+Right now I'm looking for a chance to help some developers team and get pay for my skill, you know the usual (at this rate I'll create my own startup 🗿)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-lopez-frontend/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alan_lopezrey9822@outlook.com)
@@ -11,17 +13,19 @@ I'm Alan Lopez a self-taught frontend developer from Mexico (GMT-6) with more th
 
 <div align="center">
  
- 🔭 I’m currently working on **projects and sharp my skills**
+ 🔭 I’m currently working on a **Fitness app and some other projects**
  
- 🌱 I’m currently learning **Javascript, Tailwind, PHP, Algorithms and Data structures**
+ 🌱 I’m currently learning **Computer Science in [OSSU](https://ossu.firebaseapp.com/#/) React, TDD, Firebase, Typescript, (PHP not anymore :c)**
 
  </div>
 
 <h2 align="center"> My skills 🕸</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,git,github,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,sass,git,bootstrap" />
     <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=vite,github,tailwind,jest,vitest" />
     <br>
     <br>
 </div>
