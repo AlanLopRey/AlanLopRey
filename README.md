@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alan+Lopez!;" />
 </h1>
 
-I'm Alan Lopez a self-taught frontend developer from Mexico (GMT-6) i know Javascript, HTML, CSS, Frontend tools like Vite, testing tools like Jest and Vitest.
+I'm Alan Lopez a self-taught frontend developer from Mexico (GMT-6) i know Javascript, React, HTML, CSS, Frontend tools like Vite, testing tools like Jest and Vitest.
 
 Right now I'm looking for a chance to help some developers team and get pay for my skill, you know the usual (at this rate I'll create my own startup 🗿)
 
@@ -22,7 +22,7 @@ Right now I'm looking for a chance to help some developers team and get pay for 
 <h2 align="center"> My skills 🕸</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,sass,git,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,sass,git,bootstrap" />
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=vite,github,tailwind,jest,vitest" />
