@@ -33,4 +33,4 @@ Right now I'm looking for a chance to help some developers team and get pay for 
 <h2 align="center"> My stats 👨‍💻</h2>
 
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanloprey&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanloprey&layout=donut)](https://github.com/alanloprey/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanloprey&layout=donut)
