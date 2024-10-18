@@ -20,31 +20,41 @@ I am Alan Lopez a Frontend developer with knowledge in UX design and mobile deve
  🌱 I’m currently learning **Computer Science in [OSSU](https://ossu.firebaseapp.com/#/)**
 
  </div>
+<h2 align="center">My skills 🕸</h2>
+<br/>
 
-<h2 align="center"> My skills 🕸</h2>
-<br/>
 <h2 align="center">Frontend stack</h2>
-![frontend-stack](img/Frontend%20stack.PNG)
+
+![frontend-stack](https://github.com/AlanLopRey/AlanLopRey/blob/master/img/Frontend%20stack.PNG)
 <br/>
 <br/>
+
 <h2 align="center">UX</h2>
-![ux](img/UX.PNG)
+
+![ux](https://github.com/AlanLopRey/AlanLopRey/blob/master/img/UX.PNG)
 <br/>
 <br/>
+
 <h2 align="center">Version Control and Testing</h2>
-![vc-testing](img/version%20control%20and%20testing.PNG)
+
+![vc-testing](https://github.com/AlanLopRey/AlanLopRey/blob/master/img/version%20control%20and%20testing.PNG)
 <br/>
 <br/>
-<h2 align="center">Other technologys and tools</h2>
-![other-tools](img/other%20tools.PNG)
+
+<h2 align="center">Other technologies and tools</h2>
+
+![other-tools](https://github.com/AlanLopRey/AlanLopRey/blob/master/img/other%20tools.PNG)
 <br/>
 <br/>
+
 <h2 align="center">Video editing</h2>
-![video-editing](img/editing.PNG)
+
+![video-editing](https://github.com/AlanLopRey/AlanLopRey/blob/master/img/editing.PNG)
 <br/>
 <br/>
 <br/>
-<h2 align="center"> My stats 👨‍💻</h2>
+
+<h2 align="center">My stats 👨‍💻</h2>
 
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanloprey&show_icons=true&theme=radical)
 
