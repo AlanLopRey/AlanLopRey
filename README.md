@@ -17,7 +17,7 @@ I am Alan Lopez a Frontend developer with knowledge in UX design and mobile deve
  
  🔭 I’m currently looking for a job
  
- 🌱 I’m currently learning **Computer Science in [OSSU](https://ossu.firebaseapp.com/#/)**
+ 🌱 Working in [Strongest Pomodoro System](https://strongest-pomodoro.vercel.app/) as product designer and solo dev 
 
  </div>
 <h2 align="center">My skills 🕸</h2>
