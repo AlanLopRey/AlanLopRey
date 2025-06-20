@@ -17,7 +17,7 @@ Built as a complete product web and mobile (working on it), from design to code.
 - MLP Built with Next.js, BaaS solutions, custom hooks, data viz with D3.js
 - Modular feature-first architecture
 - Real-time DB sync and state persistence
-- Monetized with Google Ads
+- Monetized with Google Ads in process
 - Custom service workers for offline use
 
 👉 [Live demo](https://strongest-pomodoro.vercel.app/) | [Web repo](https://github.com/AlanLopRey/strongest-pomodoro-web)
@@ -30,6 +30,7 @@ Built as a complete product web and mobile (working on it), from design to code.
 - **Firebase & Supabase**: Easy backend to validate ideas quickly
 - **Tailwind / CSS Modules**: Component-friendly styling
 - **GitHub Projects**: Personal kanban and roadmap tracking
+- **Zustand**: light and easy up ready state managment system enough for my project
 - **Figma**: Visual flows to guide UX decisions
 
 ---
@@ -50,4 +51,5 @@ Built as a complete product web and mobile (working on it), from design to code.
 
 ---
 
-<sub>Also explored: motion design, Blender, video editing — but now 100% focused on building software that matters.</sub>
+<sub>Also explored: motion design, Blender, video editing — but now 100% focused on building software that matters. you can see more of it here</sub>
+[also explored](./also_explored/also_explored.md)
