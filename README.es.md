@@ -24,7 +24,7 @@ Desarrollada como producto completo web y próximamente móvil, desde el diseño
 
 ## 🛠️ Tecnologías que uso (y por qué)
 
-- **React / Next.js**: Rápido, flexible y con un gran ecosistema
+- **React / Next.js**: Rápido para crear mvps, pero tambien productos escalables, flexible y con un gran ecosistema
 - **Firebase & Supabase**: Backend sencillo para validar ideas rápidamente
 - **Tailwind / CSS Modules**: Estilos pensados para componentes
 - **GitHub Projects**: Kanban personal y seguimiento de roadmap
