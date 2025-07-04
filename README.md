@@ -4,8 +4,8 @@
 
 ## Hi! I'm Alan, a frontend developer with a strong focus on product design, SW architecture, business logic and user behavior.
 
-I build tools that connect **UX design** with **technical scalability**, using modern web stacks and clean code principles.  
-My latest solo-dev project is an end-to-end productivity system called:
+’m Alan, a frontend developer with a strong focus on product logic and architecture. I specialize in building scalable apps that connect UX decisions to business outcomes.
+My latest project, Strongest Pomodoro System, reflects this focus, combining behavioral design with clean architecture.
 
 ---
 
