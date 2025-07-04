@@ -20,7 +20,7 @@ Built as a complete product web and mobile (working on it), from design to code.
 - Monetized with Google Ads in (process)
 - Custom service workers for offline use
 
-👉 [Live demo](https://strongest-pomodoro.vercel.app/) | [Web repo](https://github.com/AlanLopRey/strongest-pomodoro-web)
+👉 [Live demo](https://strongest-pomodoro.vercel.app/) | [Case of Study](./docs/case-studies/strongest-pomodoro-system.md)
 
 ---
 

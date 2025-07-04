@@ -1,5 +1,7 @@
 # Case Study: [Strongest Pomodoro Web]
 
+[Version en español](./strongest-pomodoro-system.es.md)
+
 ## 🎯 Problem
 
 In the search for methods to improve my productivity, I found the problem of not finding an app that would allow me to create enough pomodoros at once to finish my daily routine, without overdoing it, to make my productivity more sustainable over time.
