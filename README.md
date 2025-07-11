@@ -1,26 +1,26 @@
 # Alan Lopez — Frontend Developer with Product Thinking
 
-[Version en español](./README.es.md)
+[Versión en español](./README.es.md)
 
-## Hi! I'm Alan, a frontend developer with a strong focus on product design, SW architecture, business logic and user behavior.
+## I have strong focus on product design, software architecture, business logic and user behavior.
 
-’m Alan, a frontend developer with a strong focus on product logic and architecture. I specialize in building scalable apps that connect UX decisions to business outcomes.
+I’m Alan, a frontend developer with a strong focus on product logic and architecture. I specialize in building scalable apps that connect UX decisions to business outcomes.
 My latest project, Strongest Pomodoro System, reflects this focus, combining behavioral design with clean architecture.
 
 ---
 
 ## 🚀 Strongest Pomodoro System
 
-A productivity app designed around behavioral UX principles.  
-Built as a complete product web and mobile (working on it), from design to code.
+This is a productivity app designed around behavioral UX principles.  
+Built as a complete web and mobile product (mobile in progress), from design to code.
 
-- MLP Built with Next.js, BaaS solutions, custom hooks, data viz with D3.js
+- MLP built with Next.js, BaaS solutions, custom hooks, and data visualization with D3.js
 - Modular feature-first architecture
 - Real-time DB sync and state persistence
-- Monetized with Google Ads in (process)
+- Monetized with Google Ads (in process)
 - Custom service workers for offline use
 
-👉 [Live demo](https://strongest-pomodoro.vercel.app/) | [Case of Study](./docs/case-studies/strongest-pomodoro-system.md)
+👉 [Live demo](https://strongest-pomodoro.vercel.app/) | [Case Study](./docs/case-studies/strongest-pomodoro-system.md)
 
 ---
 
@@ -30,8 +30,10 @@ Built as a complete product web and mobile (working on it), from design to code.
 - **Firebase & Supabase**: Easy backend to validate ideas quickly
 - **Tailwind / CSS Modules**: Component-friendly styling
 - **GitHub Projects**: Personal kanban and roadmap tracking
-- **Zustand**: light and easy up ready state managment system enough for my project
+- **Zustand**: a lightweight and easy-to-use state management system, sufficient for my project.
 - **Figma**: Visual flows to guide UX decisions
+- **Obsidian**: to document the process, ideate, write down features, break down requirements, write down hypotheses to resolve bugs
+- **AIs**
 
 ---
 
@@ -39,9 +41,9 @@ Built as a complete product web and mobile (working on it), from design to code.
 
 - Ship fast, but also ship MLP products
 - Developer experience & clean abstractions
-- Logical UX flows (user psychology meets product)
+- Logical UX flows (where user psychology meets product)
 - Making small features feel like magic
-- Writing code that can survive refactors
+- Writing code that can survive refactoring
 
 ---
 
@@ -51,5 +53,5 @@ Built as a complete product web and mobile (working on it), from design to code.
 
 ---
 
-<sub>Also explored: motion design, Blender, video editing — but now 100% focused on building software that matters. you can see more of it here</sub>
+<sub>Also explored: motion design, Blender, video editing — but now I'm 100% focused on building software that matters. You can see more of it here:</sub>
 [also explored](./also_explored/also_explored.md)
