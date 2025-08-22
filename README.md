@@ -47,6 +47,22 @@ Built as a complete web and mobile product (mobile in progress), from design to 
 
 ---
 
+## Tools I delevoped
+
+### Gesture Scroll
+
+Tired of being sit for long time even when it was'nt necesarry (reading docs) I develop a script to let me scroll up and down in the documentation or any page using Python, MediaPipe, openCV.
+
+[Link to the docs 👉](https://github.com/AlanLopRey/gesture_scroll)
+
+### Responsive Grid Helper 
+
+Web app tool that help me made adaptative designs relying in the css grid system, grid template columns, grid template rows, and the vw css relative unit of measurement
+
+[Link to the web app 👉](https://responsive-grid-helper.vercel.app/)
+
+---
+
 ## 💬 Contact
 
 [ [LinkedIn](https://www.linkedin.com/in/alan-lopez-frontend-developer/), [Email](mailto:alan_lopezrey9822@outlook.com), [GitHub](https://github.com/AlanLopRey)]
